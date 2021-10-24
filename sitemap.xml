@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://ryanorlando.github.io/DH150site/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://ryanorlando.github.io/DH150site/</loc>
+</url>
+<url>
+<loc>https://ryanorlando.github.io/DH150site/about-the-author.html</loc>
+<lastmod>2021-10-22T10:38:10-07:00</lastmod>
+<image:image>
+<image:loc>https://ryanorlando.github.io/DH150site/media/posts/3/gallery/IMG_6520-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[heel click]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ryanorlando.github.io/DH150site/media/posts/3/gallery/IMG_0470-thumbnail.JPG</image:loc>
+<image:title><![CDATA[angel's landing]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ryanorlando.github.io/DH150site/media/posts/3/gallery/JED_6645-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[dune boarding]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ryanorlando.github.io/DH150site/welcome-to-americas-national-parks.html</loc>
+<lastmod>2021-10-20T20:39:16-07:00</lastmod>
+<image:image>
+<image:loc>https://ryanorlando.github.io/DH150site/media/posts/1/gallery/IMG_6629-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Yosemite National Park, California]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ryanorlando.github.io/DH150site/media/posts/1/gallery/IMG_6749-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Zion]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ryanorlando.github.io/DH150site/media/posts/1/gallery/IMG_6697-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Angel's Landing]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ryanorlando.github.io/DH150site/media/posts/1/gallery/IMG_5974-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Joshua Tree National Park, California]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ryanorlando.github.io/DH150site/zion-national-park.html</loc>
+<lastmod>2021-10-20T20:54:00-07:00</lastmod>
+<image:image>
+<image:loc>https://ryanorlando.github.io/DH150site/media/posts/2/gallery/IMG_6667-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ryanorlando.github.io/DH150site/media/posts/2/gallery/IMG_6714-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ryanorlando.github.io/DH150site/media/posts/2/gallery/IMG_6749-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ryanorlando.github.io/DH150site/media/posts/2/gallery/IMG_0352-thumbnail.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

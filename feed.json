@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "National Parks",
+    "description": "",
+    "home_page_url": "https://ryanorlando.github.io/DH150site",
+    "feed_url": "https://ryanorlando.github.io/DH150site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ryan Orlando"
+    },
+    "items": [
+        {
+            "id": "https://ryanorlando.github.io/DH150site/about-the-author.html",
+            "url": "https://ryanorlando.github.io/DH150site/about-the-author.html",
+            "title": "About the Author",
+            "summary": "Ryan Orlando is a fourth year political science student at UCLA, with a concentration in American politics and minors in digital humanities and public affairs. He is a national park annual passholder and thouroghly enjoys exploring any park he can get to. Through this site,&hellip;",
+            "content_html": "<p>Ryan Orlando is a fourth year political science student at UCLA, with a concentration in American politics and minors in digital humanities and public affairs. He is a national park annual passholder and thouroghly enjoys exploring any park he can get to. Through this site, he hopes to educate on the history and importance of our national parks system, as well as raise awareness of the challenges that our parks face. In his free time, Ryan enjoys watching and playing sports, and hanging out with his family, friends, and dog, Kona. </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://ryanorlando.github.io/DH150site/media/posts/3/gallery/IMG_6520.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://ryanorlando.github.io/DH150site/media/posts/3/gallery/IMG_6520-thumbnail.jpeg\" alt=\"heel click\" width=\"720\" height=\"540\"></a>\n<figcaption>Top of Yosemite Falls at 8,000 feet</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://ryanorlando.github.io/DH150site/media/posts/3/gallery/IMG_0470.JPG\" data-size=\"1536x2049\"><img loading=\"lazy\" src=\"https://ryanorlando.github.io/DH150site/media/posts/3/gallery/IMG_0470-thumbnail.JPG\" alt=\"angel's landing\" width=\"720\" height=\"960\"></a>\n<figcaption>Hiking up the Chain at Angel's Landing</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://ryanorlando.github.io/DH150site/media/posts/3/gallery/JED_6645.jpeg\" data-size=\"5453x3640\"><img loading=\"lazy\" src=\"https://ryanorlando.github.io/DH150site/media/posts/3/gallery/JED_6645-thumbnail.jpeg\" alt=\"dune boarding\" width=\"720\" height=\"481\"></a>\n<figcaption>Dune Boarding in Utah</figcaption>\n</figure>\n</div></div>",
+            "author": {
+                "name": "Ryan Orlando"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-22T10:38:10-07:00",
+            "date_modified": "2021-10-22T10:38:10-07:00"
+        },
+        {
+            "id": "https://ryanorlando.github.io/DH150site/zion-national-park.html",
+            "url": "https://ryanorlando.github.io/DH150site/zion-national-park.html",
+            "title": "Zion National Park",
+            "summary": "Located in Southern Utah, about 3 hours from Las Vegas, the majestic Zion Canyon is on of the most popular national parks in the country. With soaring rock formations and awe-insipring views, this park is particularly radiant at sunrise and sunset. Sunset over the Canyon&hellip;",
+            "content_html": "<p>Located in Southern Utah, about 3 hours from Las Vegas, the majestic Zion Canyon is on of the most popular national parks in the country. With soaring rock formations and awe-insipring views, this park is particularly radiant at sunrise and sunset.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://ryanorlando.github.io/DH150site/media/posts/2/gallery/IMG_6667.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://ryanorlando.github.io/DH150site/media/posts/2/gallery/IMG_6667-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a>\n<figcaption>Sunset over the Canyon</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://ryanorlando.github.io/DH150site/media/posts/2/gallery/IMG_6714.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://ryanorlando.github.io/DH150site/media/posts/2/gallery/IMG_6714-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a>\n<figcaption>View From Angel's Landing</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://ryanorlando.github.io/DH150site/media/posts/2/gallery/IMG_6749.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://ryanorlando.github.io/DH150site/media/posts/2/gallery/IMG_6749-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a>\n<figcaption>The Narrows</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://ryanorlando.github.io/DH150site/media/posts/2/gallery/IMG_0352.JPG\" data-size=\"2301x1536\"><img loading=\"lazy\" src=\"https://ryanorlando.github.io/DH150site/media/posts/2/gallery/IMG_0352-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"513\"></a>\n<figcaption>Stars over Campers</figcaption>\n</figure>\n</div></div>",
+            "author": {
+                "name": "Ryan Orlando"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-20T20:50:29-07:00",
+            "date_modified": "2021-10-20T20:54:00-07:00"
+        },
+        {
+            "id": "https://ryanorlando.github.io/DH150site/welcome-to-americas-national-parks.html",
+            "url": "https://ryanorlando.github.io/DH150site/welcome-to-americas-national-parks.html",
+            "title": "Welcome to America&#x27;s National Parks",
+            "summary": " ",
+            "content_html": "<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://ryanorlando.github.io/DH150site/media/posts/1/gallery/IMG_6629.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://ryanorlando.github.io/DH150site/media/posts/1/gallery/IMG_6629-thumbnail.jpeg\" alt=\"Yosemite National Park, California\" width=\"768\" height=\"576\"></a>\n<figcaption>Yosemite National Park, California</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://ryanorlando.github.io/DH150site/media/posts/1/gallery/IMG_6749.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://ryanorlando.github.io/DH150site/media/posts/1/gallery/IMG_6749-thumbnail.jpeg\" alt=\"Zion\" width=\"768\" height=\"576\"></a>\n<figcaption>Zion National Park, Utah</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://ryanorlando.github.io/DH150site/media/posts/1/gallery/IMG_6697.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://ryanorlando.github.io/DH150site/media/posts/1/gallery/IMG_6697-thumbnail.jpeg\" alt=\"Angel's Landing\" width=\"768\" height=\"576\"></a>\n<figcaption>Zion National Park, Utah</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://ryanorlando.github.io/DH150site/media/posts/1/gallery/IMG_5974.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://ryanorlando.github.io/DH150site/media/posts/1/gallery/IMG_5974-thumbnail.jpeg\" alt=\"Joshua Tree National Park, California\" width=\"768\" height=\"576\"></a>\n<figcaption>Joshua Tree National Park, California</figcaption>\n</figure>\n</div></div>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Ryan Orlando"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-20T20:26:31-07:00",
+            "date_modified": "2021-10-20T20:39:16-07:00"
+        }
+    ]
+}

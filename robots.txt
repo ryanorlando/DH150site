@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ryanorlando.github.io/DH150site/sitemap.xml
