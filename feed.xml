@@ -3,12 +3,74 @@
     <title>National Parks</title>
     <link href="https://ryanorlando.github.io/DH150site/feed.xml" rel="self" />
     <link href="https://ryanorlando.github.io/DH150site" />
-    <updated>2021-10-25T11:20:02-07:00</updated>
+    <updated>2021-10-27T12:27:46-07:00</updated>
     <author>
         <name>Ryan Orlando</name>
     </author>
     <id>https://ryanorlando.github.io/DH150site</id>
 
+    <entry>
+        <title>Joshua Tree National Park</title>
+        <author>
+            <name>Ryan Orlando</name>
+        </author>
+        <link href="https://ryanorlando.github.io/DH150site/joshua-tree-national-park.html"/>
+        <id>https://ryanorlando.github.io/DH150site/joshua-tree-national-park.html</id>
+
+        <updated>2021-10-27T12:27:46-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Hidden out in the desert near Palm Springs, Joshua Tree is an experience unlike many other. Defined by its rocky structures and namesake trees, this park presents the unique experience of a desert at high elevation. With very few mapped hikes and landmarks, this park&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hidden out in the desert near Palm Springs, Joshua Tree is an experience unlike many other. Defined by its rocky structures and namesake trees, this park presents the unique experience of a desert at high elevation. With very few mapped hikes and landmarks, this park is perfect for those exploring on their own. </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://ryanorlando.github.io/DH150site/media/posts/5/gallery/IMG_4166.jpeg" data-size="4032x3024"><img loading="lazy" src="https://ryanorlando.github.io/DH150site/media/posts/5/gallery/IMG_4166-thumbnail.jpeg" alt="ryan mountain" width="720" height="540"></a>
+<figcaption>Ryan Mountain</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ryanorlando.github.io/DH150site/media/posts/5/gallery/IMG_5970.jpeg" data-size="4032x3024"><img loading="lazy" src="https://ryanorlando.github.io/DH150site/media/posts/5/gallery/IMG_5970-thumbnail.jpeg" alt="desert landscape" width="720" height="540"></a>
+<figcaption>Desert Landscape</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ryanorlando.github.io/DH150site/media/posts/5/gallery/IMG_5983.jpeg" data-size="4032x3024"><img loading="lazy" src="https://ryanorlando.github.io/DH150site/media/posts/5/gallery/IMG_5983-thumbnail.jpeg" alt="joshua trees" width="720" height="540"></a>
+<figcaption>Joshua Trees</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Yosemite National Park</title>
+        <author>
+            <name>Ryan Orlando</name>
+        </author>
+        <link href="https://ryanorlando.github.io/DH150site/yosemite-national-park.html"/>
+        <id>https://ryanorlando.github.io/DH150site/yosemite-national-park.html</id>
+
+        <updated>2021-10-27T12:21:35-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Set back in central California far to the east of San Francisco, Yosemite National Park is a favorite destination of adventurers of all kinds. With massive granite peaks and tree-filled valleys, this park offers fun of all varieties. Flowing waterfalls serve to accent the majesty&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Set back in central California far to the east of San Francisco, Yosemite National Park is a favorite destination of adventurers of all kinds. With massive granite peaks and tree-filled valleys, this park offers fun of all varieties. Flowing waterfalls serve to accent the majesty of this park, especially in the winter and spring.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://ryanorlando.github.io/DH150site/media/posts/4/gallery/IMG_6593.jpeg" data-size="4032x3024"><img loading="lazy" src="https://ryanorlando.github.io/DH150site/media/posts/4/gallery/IMG_6593-thumbnail.jpeg" alt="glacier point" width="720" height="540"></a>
+<figcaption>Half Dome From Glacier Point</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ryanorlando.github.io/DH150site/media/posts/4/gallery/IMG_6625.jpeg" data-size="4032x3024"><img loading="lazy" src="https://ryanorlando.github.io/DH150site/media/posts/4/gallery/IMG_6625-thumbnail.jpeg" alt="valley view" width="720" height="540"></a>
+<figcaption>Top of Sentinel Dome</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ryanorlando.github.io/DH150site/media/posts/4/gallery/IMG_6532-2.jpeg" data-size="4032x3024"><img loading="lazy" src="https://ryanorlando.github.io/DH150site/media/posts/4/gallery/IMG_6532-2-thumbnail.jpeg" alt="half dome" width="720" height="540"></a>
+<figcaption>View of Half Dome</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About the Author</title>
         <author>
