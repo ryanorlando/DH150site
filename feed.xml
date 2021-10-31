@@ -3,7 +3,7 @@
     <title>National Parks</title>
     <link href="https://ryanorlando.github.io/DH150site/feed.xml" rel="self" />
     <link href="https://ryanorlando.github.io/DH150site" />
-    <updated>2021-10-31T12:32:08-07:00</updated>
+    <updated>2021-10-31T12:36:16-07:00</updated>
     <author>
         <name>Ryan Orlando</name>
     </author>
@@ -53,7 +53,7 @@
         <link href="https://ryanorlando.github.io/DH150site/yosemite-national-park.html"/>
         <id>https://ryanorlando.github.io/DH150site/yosemite-national-park.html</id>
 
-        <updated>2021-10-31T12:26:17-07:00</updated>
+        <updated>2021-10-31T12:36:16-07:00</updated>
             <summary>
                 <![CDATA[
                     Set back in central California far to the east of San Francisco, Yosemite National Park is a favorite destination for adventurers of all kinds. With massive granite peaks and tree-filled valleys, this park offers fun of all varieties. Flowing waterfalls serve to accent the majesty&hellip;
@@ -77,9 +77,7 @@
 </figure>
 </div></div>
 <p>Here are some highlights:</p>
-<figure class="post__video">
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/T_tbC84LpDI?t=12s" allowfullscreen="allowfullscreen"></iframe></figure>
-</figure>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/T_tbC84LpDI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
