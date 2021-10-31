@@ -3,7 +3,7 @@
     <title>National Parks</title>
     <link href="https://ryanorlando.github.io/DH150site/feed.xml" rel="self" />
     <link href="https://ryanorlando.github.io/DH150site" />
-    <updated>2021-10-28T22:03:58-07:00</updated>
+    <updated>2021-10-31T12:32:08-07:00</updated>
     <author>
         <name>Ryan Orlando</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://ryanorlando.github.io/DH150site/joshua-tree-national-park.html"/>
         <id>https://ryanorlando.github.io/DH150site/joshua-tree-national-park.html</id>
 
-        <updated>2021-10-28T22:03:58-07:00</updated>
+        <updated>2021-10-31T12:32:08-07:00</updated>
             <summary>
                 <![CDATA[
                     Hidden out in the desert near Palm Springs, Joshua Tree is an experience unlike many others. Defined by its rocky structures and namesake trees, this park presents the unique experience of a desert at high elevation. With very few mapped hikes and landmarks, this park&hellip;
@@ -40,6 +40,8 @@
 <figcaption>Skull Rock</figcaption>
 </figure>
 </div></div>
+<p>This is an awesome video highlighting just how cool this park can be:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/UKdIeBsvOqQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
@@ -51,7 +53,7 @@
         <link href="https://ryanorlando.github.io/DH150site/yosemite-national-park.html"/>
         <id>https://ryanorlando.github.io/DH150site/yosemite-national-park.html</id>
 
-        <updated>2021-10-28T22:01:55-07:00</updated>
+        <updated>2021-10-31T12:26:17-07:00</updated>
             <summary>
                 <![CDATA[
                     Set back in central California far to the east of San Francisco, Yosemite National Park is a favorite destination for adventurers of all kinds. With massive granite peaks and tree-filled valleys, this park offers fun of all varieties. Flowing waterfalls serve to accent the majesty&hellip;
@@ -74,6 +76,10 @@
 <figcaption>Tunnel View</figcaption>
 </figure>
 </div></div>
+<p>Here are some highlights:</p>
+<figure class="post__video">
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/T_tbC84LpDI?t=12s" allowfullscreen="allowfullscreen"></iframe></figure>
+</figure>
             ]]>
         </content>
     </entry>
@@ -116,10 +122,10 @@
         <link href="https://ryanorlando.github.io/DH150site/zion-national-park.html"/>
         <id>https://ryanorlando.github.io/DH150site/zion-national-park.html</id>
 
-        <updated>2021-10-28T21:47:04-07:00</updated>
+        <updated>2021-10-31T12:23:11-07:00</updated>
             <summary>
                 <![CDATA[
-                    Located in Southern Utah, about 3 hours from Las Vegas, the majestic Zion Canyon is one of the most popular national parks in the country. With soaring rock formations and awe-insipring views, this park is particularly radiant at sunrise and sunset. Sunset over the Canyon&hellip;
+                    Located in Southern Utah, about 3 hours from Las Vegas, the majestic Zion Canyon is one of the most popular national parks in the country. With soaring rock formations and awe-insipring views, this park is particularly radiant at sunrise and sunset. Check out this grainy&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -139,6 +145,8 @@
 <figcaption>Stars over Campers</figcaption>
 </figure>
 </div></div>
+<p>Check out this grainy but informational video!</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/XrF1cSzaeAY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
