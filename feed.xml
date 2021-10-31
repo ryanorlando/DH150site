@@ -3,7 +3,7 @@
     <title>National Parks</title>
     <link href="https://ryanorlando.github.io/DH150site/feed.xml" rel="self" />
     <link href="https://ryanorlando.github.io/DH150site" />
-    <updated>2021-10-31T12:36:16-07:00</updated>
+    <updated>2021-10-31T12:44:33-07:00</updated>
     <author>
         <name>Ryan Orlando</name>
     </author>
@@ -53,7 +53,7 @@
         <link href="https://ryanorlando.github.io/DH150site/yosemite-national-park.html"/>
         <id>https://ryanorlando.github.io/DH150site/yosemite-national-park.html</id>
 
-        <updated>2021-10-31T12:36:16-07:00</updated>
+        <updated>2021-10-31T12:42:26-07:00</updated>
             <summary>
                 <![CDATA[
                     Set back in central California far to the east of San Francisco, Yosemite National Park is a favorite destination for adventurers of all kinds. With massive granite peaks and tree-filled valleys, this park offers fun of all varieties. Flowing waterfalls serve to accent the majesty&hellip;
@@ -76,8 +76,7 @@
 <figcaption>Tunnel View</figcaption>
 </figure>
 </div></div>
-<p>Here are some highlights:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/T_tbC84LpDI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>Here are some highlights:<div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/T_tbC84LpDI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -89,7 +88,7 @@
         <link href="https://ryanorlando.github.io/DH150site/about-the-author.html"/>
         <id>https://ryanorlando.github.io/DH150site/about-the-author.html</id>
 
-        <updated>2021-10-24T11:44:23-07:00</updated>
+        <updated>2021-10-31T12:43:57-07:00</updated>
             <summary>
                 <![CDATA[
                     Ryan Orlando is a fourth year political science student at UCLA, with a concentration in American politics and minors in digital humanities and public affairs. He is a national park annual passholder and thouroghly enjoys exploring any park he can get to. Through this site,&hellip;
@@ -97,7 +96,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Ryan Orlando is a fourth year political science student at UCLA, with a concentration in American politics and minors in digital humanities and public affairs. He is a national park annual passholder and thouroghly enjoys exploring any park he can get to. Through this site, he hopes to educate on the history and importance of our national parks system, as well as raise awareness of the challenges that our parks face. In his free time, Ryan enjoys watching and playing sports, and hanging out with his family, friends, and dog, Kona. </p>
+                <p>Ryan Orlando is a fourth year political science student at UCLA, with a concentration in American politics and minors in digital humanities and public affairs. He is a national park annual passholder and thouroghly enjoys exploring any park he can get to. Through this site, he hopes to educate on the history and importance of our national parks system, as well as raise awareness of the original owners of those lands. In his free time, Ryan enjoys watching and playing sports, and hanging out with his family, friends, and dog, Kona. </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://ryanorlando.github.io/DH150site/media/posts/3/gallery/IMG_6520.jpeg" data-size="4032x3024"><img loading="lazy" src="https://ryanorlando.github.io/DH150site/media/posts/3/gallery/IMG_6520-thumbnail.jpeg" alt="heel click" width="720" height="540"></a>
 <figcaption>Top of Yosemite Falls at 8,000 feet</figcaption>
@@ -156,7 +155,7 @@
         <link href="https://ryanorlando.github.io/DH150site/welcome-to-americas-national-parks.html"/>
         <id>https://ryanorlando.github.io/DH150site/welcome-to-americas-national-parks.html</id>
 
-        <updated>2021-10-25T11:20:02-07:00</updated>
+        <updated>2021-10-31T12:44:33-07:00</updated>
             <summary>
                 <![CDATA[
                     In 1872, Congress created the first national park: Yellowstone National Park. 44 years later, President Woodrow Wilson established the National Parks Service on August 25, 1916. These two events launched one of the most ambtious and beneficial projects in our nation's history. The National Parks&hellip;
